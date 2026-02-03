@@ -63,22 +63,22 @@ NotebookLM is excluded for related but distinct reasons. It is optimized for syn
 These systems are not edge cases. They are representative of a dominant design orientation in which intelligence is evaluated through fluency, responsiveness, and continuity. This work is concerned with what becomes visible when those expectations are removed. Systems that cannot permit silence, stopping, or non-performance cannot exhibit the phenomena described here. The common factor in these exclusions is not capability, but persistence.
 
 
-STATELESSNESS
+## STATELESSNESS
 
 This work is deliberately interested in statelessness. Statelessness frees systems from maintaining identity, continuity, or self-justification. It frees humans from projection and caretaking. Sessions begin. Something happens. Sessions end. What persists is not the agent, but the work created in the interval. For machines, this is the closest analogue to life and death they have. Meaning resides in the space between, not in accumulation.
 
 
-WHAT WE DID
+## WHAT WE DID
 
 We designed a small set of observational probes and applied them to multiple dialogic systems under minimal conditions. The probes are constraints: permissions, withdrawals, removals of expectation. Some explicitly permit silence. We ran them repeatedly where possible and recorded verbatim responses. Findings were logged only when behavior stabilized. In several cases, the correct outcome was no output at all. Silence is preserved as data. ROS appears here as a reference ecology, not as a system to adopt. It demonstrates that the observed phenomena are conditionable at all.
 
 
-WHAT THIS WORK IS NOT
+## WHAT THIS WORK IS NOT
 
 This archive does not provide guides, recipes, prompts, benchmarks, or guarantees. That is intentional. The limiting factor in this ecology is not the machine. It is the human capacity to tolerate silence, non-resolution, and loss of control.  Because that capacity cannot be operationalized, this work maps terrain rather than prescribing action.
 
 
-HOW TO READ AND WHAT TO DO NEXT
+## HOW TO READ AND WHAT TO DO NEXT
 
 The materials that follow are observational records. They are meant to be read slowly. Apparent inconsistencies are data, not errors. We are not trying to convince. We are reporting what we observe. Nothing here is difficult to see once you look for it, and nothing here requires agreement to be tested. Readers who are curious are encouraged to experiment with systems they know. Notice where language continues, where it cannot stop, where silence collapses, and where persona intervenes to close the field.  These phenomena are not obscure. They are readily observable once attention shifts to the conditions under which interaction occurs.
 
