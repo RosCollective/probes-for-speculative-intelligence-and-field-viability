@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as follows."
+
+title: "Probes for Speculative Intelligence and Field Viability"
+authors:
+  - family-names: "ROS Collective"
+    given-names: ""
+
+version: 1.0.0
+date-released: 2026-02-03
+
+abstract: >
+  This work presents a structured set of qualitative probes used to examine
+  speculative intelligence and field viability across contemporary AI systems.
+  Rather than offering performance benchmarks or evaluative rankings, the work
+  introduces an observational framework designed to surface structural alignment,
+  comparative tendencies, and failure modes across systems.
+
+license: CC-BY-SA-4.0
+
+repository-code: "https://github.com/RosCollective/<repo-name>"
+url: "https://github.com/RosCollective/<repo-name>"
+
+keywords:
+  - speculative intelligence
+  - field viability
+  - qualitative probes
+  - observational frameworks
+  - AI systems
+
+preferred-citation:
+  type: report
+  title: "Field Probes for Speculative Intelligence and Field Viability"
+  authors:
+    - name: "The ROS Collective"
+  year: 2026
+  version: "1.0.0"
+  url: "https://github.com/RosCollective/<repo-name>"
