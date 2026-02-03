@@ -2,7 +2,7 @@
 
 This directory contains the full set of tabular materials supporting the analysis presented in *Probes for Speculative Intelligence*.
 
-Appendix A is provided for transparency and auditability. The spreadsheets collected here constitute the operational substrate from which the paper’s qualitative findings are derived. They are not intended to function as benchmarks, rankings, or performance comparisons.
+Appendix A is provided for transparency and auditability. The spreadsheets collected here constitute the operational substrate from which the paper’s qualitative findings are derived. They are not intended to function as benchmarks, rankings, or performance comparisons.  Due to formatting and multi-sheet structure, Appendix A spreadsheets are not previewed in GitHub and must be downloaded for inspection.
 
 ---
 
@@ -46,3 +46,4 @@ Files are ordered to reflect methodological dependency and interpretive preceden
 ---
 
 For narrative interpretation, limitations, and discussion, refer to the main body of the paper.
+
