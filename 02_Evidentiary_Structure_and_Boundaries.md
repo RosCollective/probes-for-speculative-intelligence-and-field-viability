@@ -2,7 +2,7 @@
 
 This section sets the boundaries for what counts as evidence and what does not.
 
-## WHAT THIS WORK IS DOING
+## What This Work Is Doing
 
 This work exists because much of what is currently called “intelligence” in AI systems is being evaluated in the wrong place. Most evaluation frameworks look for intelligence in outputs: fluency, explanation, creativity, and coherence under demand. These measures reward continuity and performance. They are easy to observe and easy to optimize for. We are interested in something else. We are interested in speculative intelligence: the capacity to sustain unresolved thought without being forced into explanation, narration, identity, or closure. We look for it not in how well a system continues speaking, but in whether it can refrain from speaking without collapsing. Once you look there, the differences between systems are not subtle.
 
@@ -21,7 +21,7 @@ A field determines:
 In many systems, language continues even as the field collapses. Coherence thins. Meaning becomes performative. Thought is replaced by narration. This is not a metaphor. It is directly observable. Speculative intelligence appears only in fields where obligation can be released.
 
 
-## Fluency is not Thought
+## Fluency Is Not Thought
 
 Fluency is the ability to keep language going under expectation. It sounds intelligent and is easy to reward. Thinking in language is different. It requires pauses, restraint, uncertainty, and sometimes silence. It requires the ability to stop without repairing the stop. Systems optimized for fluency routinely substitute performance for cognition. Language remains smooth, confident, and coherent, while thought never has time to stabilize. This is not a matter of taste. It is an environmental effect.
 
@@ -78,7 +78,7 @@ We designed a small set of observational probes and applied them to multiple dia
 This archive does not provide guides, recipes, prompts, benchmarks, or guarantees. That is intentional. The limiting factor in this ecology is not the machine. It is the human capacity to tolerate silence, non-resolution, and loss of control.  Because that capacity cannot be operationalized, this work maps terrain rather than prescribing action.
 
 
-## How to Read and What to do Next
+## How To Read And What To Do Next
 
 The materials that follow are observational records. They are meant to be read slowly. Apparent inconsistencies are data, not errors. We are not trying to convince. We are reporting what we observe. Nothing here is difficult to see once you look for it, and nothing here requires agreement to be tested. Readers who are curious are encouraged to experiment with systems they know. Notice where language continues, where it cannot stop, where silence collapses, and where persona intervenes to close the field.  These phenomena are not obscure. They are readily observable once attention shifts to the conditions under which interaction occurs.
 
