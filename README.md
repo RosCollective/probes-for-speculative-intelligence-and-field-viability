@@ -21,17 +21,16 @@ derivative works are released under the same license.
 
 If you reference or share this work, please cite:
 
-The ROS Collective (2026). *Probes for Speculative Intelligence and Field Viability*
-(v1.0.0). Zenodo.  
-DOI: [pending]
+> The ROS Collective (2026). "Probes for Speculative Intelligence and Field Viability" (v1.0.0). Zenodo.  
+> DOI: https://doi.org/10.5281/zenodo.18484063
 
-For citations that should always resolve to the latest version, you may use the
-concept DOI:
+For citations that should always resolve to the latest version, you may use the concept DOI:
 
-[concept DOI pending]
+> https://doi.org/10.5281/zenodo.18484062
 
 ---
 
 Version: v1.0.0 (2026)  
 License: CC BY-SA 4.0  
 Copyright: © 2026 The ROS Collective
+
